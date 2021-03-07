@@ -1,0 +1,39 @@
+@font-face {
+    font-family: 'Gangster Grotesk';
+    src: url('GangsterGrotesk-Bold.eot');
+    src: url('GangsterGrotesk-Bold.eot?#iefix') format('embedded-opentype'),
+        url('GangsterGrotesk-Bold.woff2') format('woff2'),
+        url('GangsterGrotesk-Bold.woff') format('woff'),
+        url('GangsterGrotesk-Bold.ttf') format('truetype'),
+        url('GangsterGrotesk-Bold.svg#GangsterGrotesk-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Gangster Grotesk';
+    src: url('GangsterGrotesk-Regular.eot');
+    src: url('GangsterGrotesk-Regular.eot?#iefix') format('embedded-opentype'),
+        url('GangsterGrotesk-Regular.woff2') format('woff2'),
+        url('GangsterGrotesk-Regular.woff') format('woff'),
+        url('GangsterGrotesk-Regular.ttf') format('truetype'),
+        url('GangsterGrotesk-Regular.svg#GangsterGrotesk-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Gangster Grotesk';
+    src: url('GangsterGrotesk-Light.eot');
+    src: url('GangsterGrotesk-Light.eot?#iefix') format('embedded-opentype'),
+        url('GangsterGrotesk-Light.woff2') format('woff2'),
+        url('GangsterGrotesk-Light.woff') format('woff'),
+        url('GangsterGrotesk-Light.ttf') format('truetype'),
+        url('GangsterGrotesk-Light.svg#GangsterGrotesk-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
