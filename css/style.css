@@ -81,7 +81,7 @@ footer {
 
 
 .site-description {
-  font-size: 24px;
+  font-size: 36px;
   display: inline-block;
   margin: 90px 0px 40px 0px;
 }
@@ -393,9 +393,9 @@ figcaption {
 
 
   .site-description {
-    font-size: 24px;
+    font-size: 36px;
     display: inline-block;
-    margin: 140px 0px 40px 0px;
+    margin: 40px 0px 40px 0px;
   }
 
   .navbar {
@@ -544,9 +544,9 @@ figcaption {
 
 
     .site-description {
-      font-size: 24px;
+      font-size: 48px;
       display: inline-block;
-      margin: 140px 0px 20px 0px;
+      margin: 40px 0px 20px 0px;
     }
 
     .navbar {
@@ -621,7 +621,7 @@ figcaption {
     .site-description {
       font-size: 72px;
       display: inline-block;
-      margin: 380px 0px 300px 0px;
+      margin: 80px 0px 40px 0px;
     }
 
     .project-description {
@@ -671,3 +671,13 @@ figcaption {
 
     }
   }
+  body {
+	padding: 40px;
+	margin: 0;
+}
+
+.page-header {
+	border-radius: 16px;
+  margin-top: 80px;
+  margin-bottom: 80px;
+}
