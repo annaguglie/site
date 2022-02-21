@@ -83,7 +83,7 @@ footer {
 .site-description {
   font-size: 36px;
   display: inline-block;
-  margin: 90px 0px 40px 0px;
+  margin: 120px 0px 80px 0px;
 }
 
 /* Main content */
@@ -672,7 +672,6 @@ figcaption {
     }
   }
   body {
-	padding: 40px;
 	margin: 0;
 }
 
