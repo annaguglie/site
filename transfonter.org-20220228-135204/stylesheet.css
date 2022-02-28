@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Dauphine';
+    src: url('Dauphine-Regular.woff2') format('woff2'),
+        url('Dauphine-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
