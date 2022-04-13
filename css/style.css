@@ -62,7 +62,7 @@ footer {
 }
 
 .navbar a#link:hover {
-  color: #009fe3;
+  color: #0362ff;
 }
 
 .navbar p {
@@ -75,9 +75,6 @@ footer {
 }
 
 /* When you mouse over the navigation links, change their color */
-.navbar a:hover {
-  color: #009fe3;
-}
 
 
 .site-description {
@@ -110,7 +107,7 @@ a:visited {
 a:focus {}
 
 a:hover {
-  color: #009fe3;
+  color: #0362ff;
 }
 
 a:active {}
@@ -210,15 +207,15 @@ a:active {}
 
 
  #contact a {
-   color: #009fe3;
+   color: #0362ff;
 
  }
   #contact a:link {
-   color: #009fe3;
+   color: #0362ff;
    text-decoration: none;
  }
   #contact a:visited {
-   color: #009fe3;
+   color: #0362ff;
  }
 
   #contact a:focus {
@@ -226,11 +223,11 @@ a:active {}
  }
 
   #contact a:hover {
-   color: #64a8c4;
+   color: #0362ff;
  }
 
   #contact a:active {
-     color: #9bdefa;
+     color: #0362ff;
    }
 
 
