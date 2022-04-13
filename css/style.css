@@ -120,12 +120,11 @@ a:active {}
 }
 
 .year {
-  position: relative;
+  margin: 10px 20px 40px 0px;
   float: left;
-  margin-right: 80px;
-  margin-bottom: 50px;
   width: 10%;
-  padding-bottom: 40px;
+  font-size: 12px;
+  color: #ababab;
 }
 
 
@@ -187,11 +186,6 @@ a:active {}
   font-weight: 100;
 }
 
-.project-year {
-  font-size: 22px;
-  float: right;
-}
-
 
 .flex-container {
   align-items: flex-start;
@@ -224,6 +218,7 @@ a:active {}
 
   #contact a:hover {
    color: #0362ff;
+   border-bottom: 2px solid #0362ff;
  }
 
   #contact a:active {
@@ -441,13 +436,8 @@ figcaption {
   }
 
   .year {
-    position: relative;
     float: left;
-    margin-right: 80px;
-    margin-bottom: 50px;
     width: 10%;
-    padding-bottom: 40px;
-    padding-left: 30px;
   }
 
 
@@ -459,9 +449,6 @@ figcaption {
   .project-description {
     padding: 0px 20px 0px 20px;
     bottom: 40vh;
-  }
-  .year {
-    padding-left: 0px;
   }
 
   .flex-container {
